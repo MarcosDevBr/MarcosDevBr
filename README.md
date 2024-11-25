@@ -43,9 +43,9 @@
 
 <br><br>
 ## Contact
-  [LINKEDIN](https://bento.me/marcos1041)
-  [INSTAGRAM](https://bento.me/marcos1041)
-  [YOUTUBE](https://bento.me/marcos1041)
+  [LINKEDIN](https://www.linkedin.com/in/marcos-augusto-74263b197/)
+  [INSTAGRAM](https://www.instagram.com/developer_marcos/)
+  [YOUTUBE](https://youtube.com/@devzandobr?si=3mYqSZNAEQGRCO5S)
 </p>
 
 <!--
